@@ -17,7 +17,7 @@ I love to read, run, and volunteer.
 
 # Currently Learning 
 * :iphone: React Native
-* * :muscle: Typescript
+* :muscle: Typescript
 * :love_letter: C language
 
 # Fun Facts
