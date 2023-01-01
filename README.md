@@ -6,6 +6,8 @@ I’m a lifelong learner (currently an intern with ALX Africa on software engine
 I love to read, run, and volunteer.
 
 # Skills and Experience
+* ⚛ React
+* :snake: Python
 Skills: React/ Next Js/ Django / React Native / Tailwind CSS/ Bootstrap / Typescript
 
 - 🔭 I’m currently working on Ecommerce Website 
