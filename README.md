@@ -6,7 +6,7 @@ I’m a lifelong learner (currently an intern with ALX Africa on software engine
 I love to read, run, and volunteer.
 
 # Skills and Experience
-:computer: HTML/CSS/ Javsscript
+* :computer: HTML/CSS/ Javsscript
 * ⚛ React
 * :snake: Python
 * :globe_with_meridians: Django 
