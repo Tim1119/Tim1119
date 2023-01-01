@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I’m Ajani Timothy! I'm a full stack developer with in-depth experience in software development. 
 <!--
 **Tim1119/Tim1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
