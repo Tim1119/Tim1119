@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ajani Timothy
 #### I am a full stack developer and software engineering intern
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://portfolio-five-ruby-24.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme.a3c86404.png&w=640&q=75))
 
  I create websites that help people / organizations address business challenge. My expertise lies within both front-end and backend web apps, and 
 The main languages and frameworks in my tech stack are *Python, C, MATLAB, Django, Next JS, JavaScript, React, and of course HTML/CSS.*
