@@ -1,7 +1,8 @@
-### Hi there 👋, my name is Ajani Timothy
-#### I am a Full Stack developer and Software Engineering intern
 ![I am a Full Stack developer and Software Engineering intern](https://github.com/Tim1119/Tim1119/blob/main/r.jpg)
+# Ajani Timothy
+#### I am a Full Stack developer and Software Engineering intern
 
+# About Me
  I create websites that help people / organizations address business challenge. My expertise lies within both front-end and backend web apps, and 
 The main languages and frameworks in my tech stack are *Python, C, MATLAB, Django, Next JS, JavaScript, React, and of course HTML/CSS.*
 
