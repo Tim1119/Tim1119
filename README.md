@@ -15,7 +15,24 @@ I love to read, run, and volunteer.
 * :ideograph_advantage: MATLAB
 
 # Some of my Pojects
-![](https://github.com/Tim1119/Tim1119/blob/main/covid.gif) (https://github.com/Tim1119/Tim1119/blob/main/covid.gif)
+### 1. Covid Tracker
+![](https://github.com/Tim1119/Tim1119/blob/main/covid.gif) 
+
+### 2. Gmail Clone
+![](https://github.com/Tim1119/Tim1119/blob/main/gmail-gif.gif)
+
+### 3. Hulu Clone
+![](https://github.com/Tim1119/Tim1119/blob/main/hulu-gif.gif)
+
+### 4. Medium Clone
+![](https://github.com/Tim1119/Tim1119/blob/main/medium-gif.gif)
+
+### 5. Who wants to be a Millionaire 
+![](https://github.com/Tim1119/Tim1119/blob/main/millionaire-gif.gif)
+
+### 6. NextFlix Clone
+![](https://github.com/Tim1119/Tim1119/blob/main/nextflix-gif.gif)
+
 
 
 
