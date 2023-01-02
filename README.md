@@ -14,6 +14,10 @@ I love to read, run, and volunteer.
 * :cherry_blossom: Tailwind CSS
 * :ideograph_advantage: MATLAB
 
+# Some of my Pojects
+[(https://github.com/Tim1119/Tim1119/blob/main/meeeee-removebg-preview.png)]
+
+
 
 # Currently Learning 
 * :iphone: React Native
