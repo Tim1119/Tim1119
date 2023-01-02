@@ -14,7 +14,7 @@ I love to read, run, and volunteer.
 * :cherry_blossom: Tailwind CSS
 * :ideograph_advantage: MATLAB
 
-# Some of my Pojects
+# Some of my Projects
 ### 1. Covid Tracker
 ![](https://github.com/Tim1119/Tim1119/blob/main/covid.gif) 
 
