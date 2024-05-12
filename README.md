@@ -1,7 +1,7 @@
 ![I am a Full Stack developer and Software Engineering intern](https://github.com/Tim1119/Tim1119/blob/main/meeeee-removebg-preview.png) 
 # Ajani Timothy
  Hi there 👋, I'm Ajani Timothy am a Full Stack developer and Software Engineering intern. I create websites that help people / organizations address business challenge. My expertise lies within both front-end and backend web apps.
-The main languages and frameworks in my tech stack are *Python, C, MATLAB, Django, Next JS, JavaScript, React, and of course HTML/CSS.*
+The main languages and frameworks in my tech stack are *Python, C,C#, MATLAB, Django, Node.js,Next JS, JavaScript, React,Next.jd,solidity, and of course HTML/CSS.*
 I’m a lifelong learner (currently an intern with ALX Africa on software engineering. I'm also currently learning how to build apps with react native).
 I love to read, run, and volunteer.
 
@@ -12,7 +12,7 @@ I love to read, run, and volunteer.
 * :globe_with_meridians: Django 
 * :blossom: Bootstrap 
 * :cherry_blossom: Tailwind CSS
-* :ideograph_advantage: MATLAB
+* :ideograph_advantage: MATLA
 
 # Some of my Projects
 ### 1. Covid Tracker
