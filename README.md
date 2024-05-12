@@ -1,17 +1,17 @@
-![I am a Full Stack developer and Software Engineering intern](https://github.com/Tim1119/Tim1119/blob/main/meeeee-removebg-preview.png) 
+
 # Ajani Timothy
- Hi there 👋, I'm Ajani Timothy am a Full Stack developer and Software Engineering intern. I create websites that help people / organizations address business challenge. My expertise lies within both front-end and backend web apps.
-The main languages and frameworks in my tech stack are *Python, C,C#, MATLAB, Django, Node.js,Next JS, JavaScript, React,Next.js.l, Typescript, solidity, and of course HTML/CSS.*
-I’m a lifelong learner (currently an intern with ALX Africa on software engineering. I'm also currently learning how to build apps with react native).
+ Hi there 👋, I'm Ajani Timothy am a Full Stack developer and Software Engineer. I create websites that help people / organizations address business challenge. My expertise lies within both front-end and backend web apps and lately web3.
+The main languages and frameworks in my tech stack are *Python, C,C#, MATLAB, Django, Node.js,Next JS, JavaScript, React,Next.js.l, Typescript, Solidity, and of course HTML/CSS.*
+I’m a lifelong learner. I'm also currently learning how to build apps with react native.
 I love to read, run, and volunteer.
 
 # Skills and Experience
-* :computer: HTML/CSS/ Javascript,C,C# (school projects),Solidity, typescript and Python
+* :computer: HTML/CSS/ Javascript,C,C# (school projects),Solidity, Typescript and Python
 * ⚛ React,Next.js
 * :snake: Postgresql, Firebase, 
-* :globe_with_meridians: Django, Node.js
+* :globe_with_meridians: Django, Node.js, Sanity (Headless CMS Backend)
 * :blossom: Bootstrap, Tailwind,Daisy UI ,Semantic UI
-* :cherry_blossom: Sanity,Git,Gitlab
+* :cherry_blossom: Git,Gitlab
 * :ideograph_advantage: MATLAB
 
 # Some of my Projects
@@ -21,10 +21,10 @@ I love to read, run, and volunteer.
 ### 2. Gmail Clone
 ![](https://github.com/Tim1119/Tim1119/blob/main/gmail-gif.gif)
 
-### 3. Hulu Clone
+### 3. Movie Site
 ![](https://github.com/Tim1119/Tim1119/blob/main/hulu-gif.gif)
 
-### 4. Medium Clone
+### 4. Blog
 ![](https://github.com/Tim1119/Tim1119/blob/main/medium-gif.gif)
 
 ### 5. Who wants to be a Millionaire 
@@ -38,12 +38,12 @@ I love to read, run, and volunteer.
 
 # Currently Learning 
 * :iphone: React Native
-* :muscle: Typescript
-* :love_letter: C language
+* :muscle: AWS & GCP (Cloud Computing )
+* :love_letter: Rust language
 
 # Fun Facts
 - 🔭 I’m currently working on a Next js Ecommerce Website 
-- 🌱 I’m currently learning React Native,C  & Typescript 
+- 🌱 I’m currently learning React Native,AWS  & Rust
 - 🤔 I’m looking for help with Mentorship & Internship 
 - 💬 Ask me about anything  
 - 📫 How to reach me: timothyinioluwajobs@gmail.com 
