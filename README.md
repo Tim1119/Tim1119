@@ -52,9 +52,6 @@ I love to read, run, and volunteer.
 # Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tim1119)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/timothy-ajani-220794199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ajanitimotew)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14591808)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/oRSZRmydUTTC9hrxZx9pwA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-five-ruby-24.vercel.app/)  
 
-# Languages Used
+# Languages Used Lately
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim1119&show_icons=true 'delete')  
 
