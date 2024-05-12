@@ -55,6 +55,6 @@ I love to read, run, and volunteer.
 # Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119)](https://github.com/anuraghazra/github-readme-stats)
 
-# Github Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim1119&show_icons=true)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim1119&show_icons=true 'delete')  
 
