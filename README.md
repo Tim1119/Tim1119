@@ -1,6 +1,6 @@
 
 # Ajani Timothy
-Hello, I’m Ajani Timothy, a Full Stack Developer and Software Engineer dedicated to building innovative websites that help individuals and organizations address their specific challenges. My passion lies in leveraging technology to create solutions that make a real difference. My expertise encompasses both front-end and back-end web applications, ensuring a seamless user experience. >In summary I love doing hard things
+Hello, I’m Ajani Timothy, a Full Stack Developer and Software Engineer dedicated to building innovative websites that help individuals and organizations address their specific challenges. My passion lies in leveraging technology to create solutions that make a real difference. My expertise encompasses both front-end and back-end web applications, ensuring a seamless user experience. 
 
 ## Notable Projects
 - **[Project Name](link)**: Brief description of the project, the technologies used, and what challenges it addresses.
