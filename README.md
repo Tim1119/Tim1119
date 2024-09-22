@@ -16,9 +16,15 @@ Outside of coding, I enjoy reading books,watching travel blogs and documentaries
 - **UI Libraries**: Bootstrap, Tailwind CSS, Daisy UI, Semantic UI etc
 
 ## Back-End Development
-- **Languages**: Python, C, C#
-- **Frameworks**: Django, Node.js
+- **Languages**: Python, C#, Javascript
+- **Frameworks**: Django, Node.js,ASP.NET Core,ASP.NET MVC,Razor Pages
 - **Databases**: PostgreSQL, Firebase
+
+## Other Technical Skills
+- **Languages**: C ,  MATLAB & Simulink ( Power Systems, Control Systems, and Digital Signal Processing)
+- **Scripting**: Bash
+- **Tools**: Git, GitLab, AutoCAD, Proteus 
+  
 
 ## Version Control and Collaboration
 - **Tools**: Git, GitLab
