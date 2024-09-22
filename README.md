@@ -1,18 +1,35 @@
 
 # Ajani Timothy
- Hi there 👋, I'm Ajani Timothy am a Full Stack developer and Software Engineer. I create websites that help people / organizations address business challenge. My expertise lies within both front-end and backend web apps and lately web3.
-The main languages and frameworks in my tech stack are *Python, C,C#, MATLAB, Django, Node.js,Next JS, JavaScript, React,Next.js.l, Typescript, Solidity, and of course HTML/CSS.*
-I’m a lifelong learner. I'm also currently learning how to build apps with react native.
-I love to read, run, and volunteer.
+Hello, I’m Ajani Timothy, a Full Stack Developer and Software Engineer dedicated to building innovative websites that help individuals and organizations address their specific challenges. My expertise encompasses both front-end and back-end web applications.
+
+I’m skilled in a variety of languages and frameworks, including Python, C (currently learning), C#, MATLAB, Django, Node.js, Next.js, JavaScript, React, and TypeScript. Currently, I'm focused on mastering C and diving into data structures and algorithms (DSA) to sharpen my problem-solving abilities.
+
+With a keen eye for detail and a love for problem-solving, I blend creativity and technology to transform ideas into impactful digital experiences.
+
+Outside of coding, I enjoy reading books,watching travel blogs and documentaries, running, and volunteering in my community.
 
 # Skills and Experience
-* :computer: HTML/CSS/ Javascript,C,C# (school projects),Solidity, Typescript and Python
-* ⚛ React,Next.js
-* :snake: Postgresql, Firebase, 
-* :globe_with_meridians: Django, Node.js, Sanity (Headless CMS Backend)
-* :blossom: Bootstrap, Tailwind,Daisy UI ,Semantic UI
-* :cherry_blossom: Git,Gitlab
-* :ideograph_advantage: MATLAB
+
+## Front-End Development
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries**: React, Next.js
+- **UI Libraries**: Bootstrap, Tailwind CSS, Daisy UI, Semantic UI etc
+
+## Back-End Development
+- **Languages**: Python, C, C#
+- **Frameworks**: Django, Node.js
+- **Databases**: PostgreSQL, Firebase
+
+## Version Control and Collaboration
+- **Tools**: Git, GitLab
+
+## Other Technical Skills
+- **MATLAB for Modeling and Simulation**: Used for analyzing Power Systems, designing Control Systems, and implementing Digital Signal Processing algorithms.
+- **Content Management**: Sanity (Headless CMS Backend)
+
+## Lifelong Learning
+I am constantly expanding my knowledge and skills in software development, including emerging technologies and best practices.
+
 
 # Some of my Projects
 ### 1. Covid Tracker
