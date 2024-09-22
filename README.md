@@ -3,9 +3,9 @@
 Hello, I’m Ajani Timothy, a Full Stack Developer and Software Engineer dedicated to building innovative websites that help individuals and organizations address their specific challenges. My passion lies in leveraging technology to create solutions that make a real difference. My expertise encompasses both front-end and back-end web applications, ensuring a seamless user experience. 
 
 ## Notable Projects
-- **[Preclinic](link)**: A comprehensive Hospital Management System (HMS) designed to streamline healthcare operations. PreClinic offers modules for patient management, appointment scheduling, medical records, and staff management. Built using Django, HTML, CSS and javascript it aims to improve efficiency in healthcare administration by integrating core functionalities into a single platform.
+- **[Preclinic](https://github.com/Tim1119/preclinic)**: A comprehensive Hospital Management System (HMS) designed to streamline healthcare operations. PreClinic offers modules for patient management, appointment scheduling, medical records, and staff management. Built using Django, HTML, CSS and javascript it aims to improve efficiency in healthcare administration by integrating core functionalities into a single platform.
   
-- **[Project Name](link)**: Brief description of the project, the technologies used, and what challenges it addresses.
+- **[Vidamo](https://github.com/Tim1119/vidamo)**: A video conferencing application built with Django and Agora RTC. Vidamo provides reliable and high-quality video and audio streaming, designed for virtual meetings and webinars, offering a smooth and user-friendly experience for remote communication.
 
 ## Skills and Experience
 ### Front-End Development
