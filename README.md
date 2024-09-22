@@ -3,7 +3,8 @@
 Hello, I’m Ajani Timothy, a Full Stack Developer and Software Engineer dedicated to building innovative websites that help individuals and organizations address their specific challenges. My passion lies in leveraging technology to create solutions that make a real difference. My expertise encompasses both front-end and back-end web applications, ensuring a seamless user experience. 
 
 ## Notable Projects
-- **[Project Name](link)**: Brief description of the project, the technologies used, and what challenges it addresses.
+- **[Preclinic](link)**: A comprehensive Hospital Management System (HMS) designed to streamline healthcare operations. PreClinic offers modules for patient management, appointment scheduling, medical records, and staff management. Built using Django, HTML, CSS and javascript it aims to improve efficiency in healthcare administration by integrating core functionalities into a single platform.
+  
 - **[Project Name](link)**: Brief description of the project, the technologies used, and what challenges it addresses.
 
 ## Skills and Experience
