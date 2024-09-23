@@ -51,3 +51,26 @@ Feel free to reach out if you want to collaborate on a project, share ideas, or 
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tim1119&theme=radical)](https://git.io/streak-stats)
 
+## Repositories
+[![GitHub Repositories](https://badges.pufler.dev/repos/Tim1119)](https://github.com/Tim1119)
+
+## Commits This Year
+![Ajani's GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=Tim1119&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+
+## Followers
+[![GitHub Followers](https://img.shields.io/github/followers/Tim1119?label=Followers&style=social)](https://github.com/Tim1119)
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Tim1119&color=brightgreen)
+
+## Contributions Graph
+[![Ajani's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Tim1119&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contribution Heatmap
+![Ajani's GitHub Contribution Heatmap](https://activity-graph.herokuapp.com/graph?username=Tim1119&theme=radical)
+
+
+
