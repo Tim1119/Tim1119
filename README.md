@@ -50,15 +50,3 @@ Feel free to reach out if you want to collaborate on a project, share ideas, or 
 
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tim1119&theme=radical)](https://git.io/streak-stats)
-
-## Repositories
-[![GitHub Repositories](https://badges.pufler.dev/repos/Tim1119)](https://github.com/Tim1119)
-
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Tim1119&color=brightgreen)
-
-
-
-
-
-
