@@ -42,9 +42,6 @@ In addition to coding, I love exploring new cultures through travel and document
 ## Let's Connect
 Feel free to reach out if you want to collaborate on a project, share ideas, or simply connect. You can find me on [LinkedIn](https://www.linkedin.com/in/timothy-ajani/), [Stackoverflow](https://stackoverflow.com/users/14591808) or follow me on [Twitter](https://x.com/ajanithegreat).
 
-## GitHub Stats
-![Ajani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim1119&show_icons=true&theme=radical)
-
 ## Languages Used Lately
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -53,9 +50,6 @@ Feel free to reach out if you want to collaborate on a project, share ideas, or 
 
 ## Repositories
 [![GitHub Repositories](https://badges.pufler.dev/repos/Tim1119)](https://github.com/Tim1119)
-
-## Commits This Year
-![Ajani's GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=Tim1119&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
 ## Followers
 [![GitHub Followers](https://img.shields.io/github/followers/Tim1119?label=Followers&style=social)](https://github.com/Tim1119)
