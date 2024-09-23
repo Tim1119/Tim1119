@@ -42,6 +42,9 @@ In addition to coding, I love exploring new cultures through travel and document
 ## Let's Connect
 Feel free to reach out if you want to collaborate on a project, share ideas, or simply connect. You can find me on [LinkedIn](https://www.linkedin.com/in/timothy-ajani/), [Stackoverflow](https://stackoverflow.com/users/14591808) or follow me on [Twitter](https://x.com/ajanithegreat).
 
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Languages Used Lately
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -51,20 +54,11 @@ Feel free to reach out if you want to collaborate on a project, share ideas, or 
 ## Repositories
 [![GitHub Repositories](https://badges.pufler.dev/repos/Tim1119)](https://github.com/Tim1119)
 
-## Followers
-[![GitHub Followers](https://img.shields.io/github/followers/Tim1119?label=Followers&style=social)](https://github.com/Tim1119)
-
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Tim1119&color=brightgreen)
 
-## Contributions Graph
-[![Ajani's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Tim1119&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Contribution Heatmap
-![Ajani's GitHub Contribution Heatmap](https://activity-graph.herokuapp.com/graph?username=Tim1119&theme=radical)
 
 
 
