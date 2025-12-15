@@ -1,11 +1,11 @@
 # Ajani Timothy 🚀
 
-**Software Developer** | Problem Solver | Building Digital Experiences
+**Software Developer**
 
 ---
 
-I craft clean, scalable, and elegant software. I focus on **clarity, reliability, and maintainable code**.  
-I let my work speak for itself — simple, effective solutions that last.
+I build software that works. Clean code, no unnecessary complexity.  
+I like solving problems and shipping things that last.
 
 ---
 
@@ -23,12 +23,12 @@ I let my work speak for itself — simple, effective solutions that last.
 
 ---
 
-### 🌱 Core Values
+### 🌱 How I Work
 
-- Simplicity > cleverness  
-- Readable code > smart code  
-- Systems that scale with people, not ego  
-- Continuous improvement  
+- Keep it simple  
+- Write code others can read  
+- Build things that don't break  
+- Always learning  
 
 ---
 
@@ -42,5 +42,3 @@ I let my work speak for itself — simple, effective solutions that last.
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tim1119&color=6366F1&style=for-the-badge&label=Profile+Views)
-
-> *"Write code like someone else will maintain it — because someone will."* 🖋️
