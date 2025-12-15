@@ -56,6 +56,18 @@ From concept to deployment — I build end-to-end.
 
 ## GitHub Trophies
 
+<div>
+  
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Languages Used Lately
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tim1119&theme=radical)](https://git.io/streak-stats)
+</div>
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
