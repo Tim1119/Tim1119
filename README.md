@@ -1,88 +1,50 @@
-<div align="center">
+# Ajani Timothy 🚀
 
-<!-- Animated Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Timothy+%F0%9F%91%8B;Software+Developer;Building+Digital+Experiences" alt="Typing SVG" /></a>
+Full-Stack Developer | Software Engineer | Problem Solver
 
-<br/>
-<br/>
+---
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+I craft clean, scalable, and elegant software. I focus on **clarity, reliability, and maintainable code**.  
+I let my work speak for itself — simple, effective solutions that last.
 
-</div>
+---
 
-<br/>
+### ⚡ GitHub Highlights
 
-<p align="center">
-I craft web applications that solve real problems.<br/>
-Passionate about clean code, scalable architecture, and seamless user experiences.<br/>
-From concept to deployment — I build end-to-end.
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tim1119&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119&layout=compact&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=radical)
 
-<br/>
+---
 
-## Let's Connect
+### 🔧 Tools & Stack
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-ajani/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ajanithegreat)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14591808)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://timothyajaniportfolio-b6v3zq29k-timthegreat.vercel.app/)
+*(More details live in my portfolio)*
 
-</div>
+---
 
-<br/>
+### 🌱 Core Values
 
-## GitHub Analytics
+- Simplicity > cleverness  
+- Readable code > smart code  
+- Systems that scale with people, not ego  
+- Continuous improvement  
 
-<div align="center">
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tim1119&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tim1119&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
+### 🌐 Connect
 
-<br/>
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-ajani/)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14591808)  
+[![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ajanithegreat)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
+---
 
-</div>
-
-<br/>
-
-## GitHub Trophies
-
-<div>
-  
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Languages Used Lately
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tim1119&theme=radical)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Tim1119&color=6366F1&style=for-the-badge&label=Profile+Views"/>
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
-
-</div>
+> “Write code like someone else will maintain it — because someone will.” 🖋️
