@@ -1,6 +1,6 @@
 # Ajani Timothy 🚀
 
-**Software Developer** | Problem Solver | Building Digital Experiences
+**Software Engineer** | Problem Solver 
 
 ---
 
