@@ -11,7 +11,7 @@ I let my work speak for itself — simple, effective solutions that last.
 
 ### ⚡ GitHub Highlights
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tim1119&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tim1119&theme=dark)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119&layout=compact&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Tim1119&theme=radical)
 
