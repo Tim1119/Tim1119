@@ -15,7 +15,7 @@ I like solving problems and shipping things that last.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tim1119&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim1119&theme=tokyonight)
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tim1119&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim1119&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9)
 
